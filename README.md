@@ -28,4 +28,4 @@ Hence, we proposed an end-to-end deep learning approach, Gene Transformer, which
 Graphical illustration of Gene Transformer architecture is as follows: 
 \
 \
-<img src="Modi_timeline.png" width="2800" height="800">
+<img src="Modi_timeline.png" width="1600" height="800">
