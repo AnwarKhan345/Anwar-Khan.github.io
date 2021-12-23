@@ -17,4 +17,4 @@ Cancer and its subtypes constitute approximately 30% of all causes of death glob
 
 Graphical illustration of Gene Transformer architecture is as follows: 
 \
-<img src="Modi_timeline.png" width="3600" height="500">
+<img src="Modi_timeline.png" width="3600" height="600">
