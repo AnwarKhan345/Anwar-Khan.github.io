@@ -1,37 +1,9 @@
 ## Anwar Khan
-
-You can use the [editor on GitHub](https://github.com/AnwarKhan345/Anwarkhan.github.io/edit/anwar-branch/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AnwarKhan345/Anwarkhan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Project # 01: AI-Based Discovery of Cancer-Specific Metabolic Biomarkers.
+This project falls under the umbrella of the main project named “*Artificial Intelligence-based Drug Discovery*.” This study is alienated into two parts:
+* Proposing a deep learning-based feature selection method to extract relevant metabolic biomarkers from cancer-specific expression profiles.
+* In Vitro validation of the extracted biomarkers.
+## Motivation: 
+Numerous research have revealed that metabolic rewiring in the cancer cells is one of the determining factors during tumor initiation and progression. Thus, the inclusion of metabolic signatures may provide significant information beyond routine prognosis in several cancer types. In this study, utilizing the cancer expression profiles of metabolic genes, a deep learning-based algorithm is developed to extract relevant biomarkers contributing to tumor initiation and progression and overall survival of different cancer types. Expression profiles of melanoma, gastric cancer, and lung cancer were used in this study. Results of the proposed algorithm were compared with conventional feature selection methods such as recursive feature selection (RFE), mutual information (MI), sequential forward floating selection (SFFS), and sequential backward floating selection (SBFS).\
+\
+Now, the results of the algorithm implementations (proposed and commonly used feature selected methods) are submitted to one of the project collaborators for the in vitro validation of the extracted biomarkers as well as to establish the significance of the research.
