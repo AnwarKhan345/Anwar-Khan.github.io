@@ -3,10 +3,9 @@
 ## 1.  AI-Based Discovery of Cancer-Specific Metabolic Biomarkers.
 
 This project falls under the umbrella of the main project named “*Artificial Intelligence-based Drug Discovery*.”, alienated into two parts:
-<p align="justify">
 * Proposing a deep learning-based feature selection method to extract relevant metabolic biomarkers from cancer-specific expression profiles.
 * In Vitro validation of the extracted biomarkers. \
-</p>
+
 
 ## Motivation: 
 <p align="justify">
