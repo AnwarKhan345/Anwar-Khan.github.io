@@ -1,4 +1,4 @@
-# Anwarkhan.github.io
+
 # H1 Project # 01: AI-based discovery of cancer-specific metabolic biomarkers.
 This project falls under the umbrella of the main project named “*Artificial Intelligence-based Drug Discovery*.” This study is divided into two parts:
 * Proposing a deep learning-based feature selection method to extract relevant metabolic genes from gene expression cancer profiles.
