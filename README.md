@@ -1,6 +1,10 @@
 # Anwar Khan
 # **Projects**
-## 1.  AI-Based Discovery of Cancer-Specific Metabolic Biomarkers.
+## 1.  Deciphering Adversarially Generated Cervical Pap Smear Cells using Transformers-Based Ensemble Learning.
+
+This project falls under the umbrella of the main project named “*Artificial Intelligence to Decipher Prognostic Molecular Biomarkers in Cancer Pathology*”.
+
+## 2.  AI-Based Discovery of Cancer-Specific Metabolic Biomarkers.
 
 This project falls under the umbrella of the main project named “*Artificial Intelligence-based Drug Discovery*.”, alienated into two parts:
 * Proposing a deep learning-based feature selection method to extract relevant metabolic biomarkers from cancer-specific expression profiles.
@@ -16,7 +20,7 @@ Numerous research have revealed that metabolic rewiring in the cancer cells is o
 Now, the results of the algorithm implementations (proposed and commonly used feature selected methods) are submitted to one of the project collaborators for the in vitro validation of the extracted biomarkers as well as to establish the significance of the research.
 </p>
 
-## 2.  Gene Transformer: Transformer for the Gene Expression Based Classification of Lung Cancer Subtypes.
+## 3.  Gene Transformer: Transformer for the Gene Expression Based Classification of Lung Cancer Subtypes.
 
 ## Motivation: 
 <p align="justify">
