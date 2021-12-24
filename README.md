@@ -4,6 +4,11 @@
 
 This project falls under the umbrella of the main project named “*Artificial Intelligence to Decipher Prognostic Molecular Biomarkers in Cancer Pathology*”.
 
+Graphical illustration is as follows: 
+\
+\
+<img src="cervical.jpg" width="1600" height="800">
+
 ## 2.  AI-Based Discovery of Cancer-Specific Metabolic Biomarkers.
 
 This project falls under the umbrella of the main project named “*Artificial Intelligence-based Drug Discovery*.”, alienated into two parts:
