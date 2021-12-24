@@ -7,7 +7,7 @@ This project falls under the umbrella of the main project named “*Artificial I
 Graphical illustration is as follows: 
 \
 \
-<img src="cervical.jpg" width="1600" height="800">
+<img src="cervical.jpg" width="2000" height="800">
 
 ## 2.  AI-Based Discovery of Cancer-Specific Metabolic Biomarkers.
 
