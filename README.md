@@ -12,7 +12,7 @@ Immune check-point inhibitors (CPIs) have shown durable clinical responses acros
 #### Contribution: 
 <p align="justify">
 In this study, using the expression profiles of metabolic-related genes, an encoder-decoder-based deep learning algorithm is developed to extract relevant biomarkers contributing to tumor initiation and progression and overall survival of different cancer types. Expression profiles of melanoma, gastric cancer, and lung cancer were used in this research.
- </p>
+</p>
 #### Results: 
 <p align="justify">
 Our team discovered several metabolic biomarkers which are common across melanoma, gastric, and lung cancer. Two of the discovered biomarkers have been validated via wet-lab experiments, and the remaining one is still under investigation. This study will be a breakthrough in identifying responders to CPI mono-therapy and will facilitate the implementation of more personalized and specific disease-modifying therapies in the future.
