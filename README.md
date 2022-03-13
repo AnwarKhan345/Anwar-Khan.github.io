@@ -66,7 +66,7 @@ On-premise deployment of the proposed pre-trained model will be looked into t oe
 Graphical illustration is as follows: 
 </p>
 
-<img src="cervical.jpg" width="1600" height="800">
+<img src="cervical.jpg" width="1200" height="800">
 
 ## c) Artificial Intelligence to Decipher Prognostic Molecular Biomarkers in Cancer Pathology.
 (Research in progress)
