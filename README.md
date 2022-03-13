@@ -34,7 +34,7 @@ Comparative analysis reveals that the proposed Gene Transformer outperformed the
 </p>
 Graphical illustration is as follows: 
 
-<img src="Figure1.jpg" width="1200" height="800">
+<img src="Figure1.jpg" width="1200" height="600">
 
 ## Project # 02: Artificial Intelligence in Cancer Pathology
 
@@ -66,7 +66,7 @@ On-premise deployment of the proposed pre-trained model will be looked into t oe
 Graphical illustration is as follows: 
 </p>
 
-<img src="cervical.jpg" width="1200" height="800">
+<img src="cervical.jpg" width="1200" height="600">
 
 ## c) Artificial Intelligence to Decipher Prognostic Molecular Biomarkers in Cancer Pathology.
 (Research in progress)
