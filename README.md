@@ -33,6 +33,7 @@ Proposed an end-to-end deep learning approach, Gene Transformer, which addresses
 Comparative analysis reveals that the proposed Gene Transformer outperformed the commonly used traditional and state-of-the-art classification algorithms on TCGA dataset and can be considered as an efficient approach for classifying cancer and its subtypes, indicating that any improvement in deep learning models in computational biologists can be reflected well in this domain as well.
 </p>
 Graphical illustration is as follows: 
+<amp-img width="600" height="300" layout="responsive" src="Figure1.jpg"></amp-img>
 
 <img src="Figure1.jpg" width="1600" height="800">
 
