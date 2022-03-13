@@ -34,7 +34,7 @@ Comparative analysis reveals that the proposed Gene Transformer outperformed the
 </p>
 Graphical illustration is as follows: 
 
-<img src="Figure1.jpg" width="1600" height="800">
+<img src="Figure1.jpg" width="1200" height="800">
 
 ## Project # 02: Artificial Intelligence in Cancer Pathology
 
