@@ -16,7 +16,7 @@ In this study, using the expression profiles of metabolic-related genes, an enco
 #### Results: 
 <p align="justify">
 Our team discovered several metabolic biomarkers which are common across melanoma, gastric, and lung cancer. Two of the discovered biomarkers have been validated via wet-lab experiments, and the remaining one is still under investigation. This study will be a breakthrough in identifying responders to CPI mono-therapy and will facilitate the implementation of more personalized and specific disease-modifying therapies in the future.
-
+</p>
 
 ### b) Gene Transformer: Transformer for the Gene Expression-based Classification of Cancer Subtypes (Peer-reviewed).
 
@@ -33,8 +33,6 @@ Proposed an end-to-end deep learning approach, Gene Transformer, which addresses
 Comparative analysis reveals that the proposed Gene Transformer outperformed the commonly used traditional and state-of-the-art classification algorithms on TCGA dataset and can be considered as an efficient approach for classifying cancer and its subtypes, indicating that any improvement in deep learning models in computational biologists can be reflected well in this domain as well.
 </p>
 Graphical illustration is as follows: 
-\
-\
 
 <img src="Figure1.jpg" width="1600" height="800">
 </p>
@@ -50,22 +48,22 @@ Cervical cancer affects around 0.5 million women per year, resulting in over 0.3
 </p>
 ####  Contribution: 
 <p align="justify">
-Herein, I developed an end-to-end multiscale transformer-based learning framework to assess pre-cancerous and cancer-specific cervical malignant lesions on WSIs. The proposed framework consists of (1) a generative adversarial network for generating synthetic images to address the class imbalanced problems, (2) a multiscale transformer-based learning method for cell identification at various stages, including atypical Squamous Cells (ASC-H) and atypical squamous cells of undetermined significance (ASCUS), which have not been demonstrated in previous studies, and (3) a fusion model for concatenating multiscale features and producing final outcomes. 
+Herein, I developed an end-to-end multiscale transformer-based learning framework to assess pre-cancerous and cancer-specific cervical malignant lesions on WSIs. The proposed framework consists of (1) a generative adversarial network for generating synthetic images to address the class imbalanced problem, (2) a multiscale transformer-based learning method for cell identification at various stages, including atypical Squamous Cells (ASC-H) and atypical squamous cells of undetermined significance (ASCUS), which have not been demonstrated in previous studies, and (3) a fusion model for concatenating multiscale features and producing final outcomes. 
 </p>
 #### Results: 
 <p align="justify">
 In evaluation, the proposed method is first evaluated on a private dataset of 717 annotated samples from six classes using cross-validation, obtaining high recall and precision of 0.940 and 0.934, respectively, in roughly 1.2 minutes. For clinical interpretation, we used GradCAM to visualize a coarse localization map, highlighting important regions in the WSI. Notably, the proposed framework extracted features are mostly from the cell nucleus and partially from the cytoplasm. In comparison with the existing state-of-the-art benchmark methods, the proposed framework outperforms them in terms of recall, accuracy, and computing time.
- </p>
- #### Future work:   
+</p>
+#### Future work:   
 <p align="justify">
 On-premise deployment of the proposed pre-trained model will be looked into t oensure low latency and high throughput furthermore. 
+</p>
 
 ### b) Deciphering Adversarially Generated Cervical Pap Smear Cells using Transformers-Based Ensemble Learning.
 (Accepted at IUPESM World Congress on Medical Physics and Biomedical Engineering 2022 (IUPESM WC2022)).
-<p align="justify">
- 
+<p align="justify"> 
 Graphical illustration is as follows: 
-
+</p>
 
 <img src="cervical.jpg" width="2000" height="800">
 </p>
