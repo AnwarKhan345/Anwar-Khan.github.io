@@ -34,7 +34,7 @@ Comparative analysis reveals that the proposed Gene Transformer outperformed the
 </p>
 Graphical illustration is as follows: 
 
-![picture alt](Figure1.jpg)   
+<img src="Figure1.jpg" width="1600" height="800">
 
 {% include picture.html img="Figure1.jpg" height="400" width="800" %}
 
@@ -42,7 +42,9 @@ Graphical illustration is as follows:
 
 This project is divided into two parts:
 
-## a) Understanding Cervical Cancer Pathology via Multiscale Transformer-Based Learning Framework (Manucript under-writing).
+## a) Understanding Cervical Cancer Pathology via Multiscale Transformer-Based Learning Framework.
+(Manucript under-writing)
+
 ### Motivation: 
 <p align="justify">
 Cervical cancer affects around 0.5 million women per year, resulting in over 0.3 million fatalities. Therefore, repetitive screening for cervical cancer is of utmost importance. Computer-assisted diagnosis is key for scaling up cervical cancer screening. Current recognition algorithms, however, perform poorly on whole-slide image (WSI) analysis, fail to generalize for different staining methods and on uneven distribution for subtype imaging, and also provide sub-optimal clinical-level interpretations. 
