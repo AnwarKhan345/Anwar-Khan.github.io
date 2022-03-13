@@ -36,8 +36,6 @@ Graphical illustration is as follows:
 
 <img src="Figure1.jpg" width="1600" height="800">
 
-{% include picture.html img="Figure1.jpg" height="400" width="800" %}
-
 ## Project # 02: Artificial Intelligence in Cancer Pathology
 
 This project is divided into two parts:
