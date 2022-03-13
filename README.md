@@ -16,7 +16,7 @@ In this study, using the expression profiles of metabolic-related genes, an enco
 #### Results: 
 <p align="justify">
 Our team discovered several metabolic biomarkers which are common across melanoma, gastric, and lung cancer. Two of the discovered biomarkers have been validated via wet-lab experiments, and the remaining one is still under investigation. This study will be a breakthrough in identifying responders to CPI mono-therapy and will facilitate the implementation of more personalized and specific disease-modifying therapies in the future.
-</p>
+
 
 ### b) Gene Transformer: Transformer for the Gene Expression-based Classification of Cancer Subtypes (Peer-reviewed).
 
@@ -35,8 +35,8 @@ Comparative analysis reveals that the proposed Gene Transformer outperformed the
 Graphical illustration is as follows: 
 \
 \
-</p>
-<img src="Modi_timeline.png" width="1600" height="800">
+
+<img src="Figure1.jpg" width="1600" height="800">
 </p>
 
 ## Project # 02: Artificial Intelligence in Cancer Pathology
@@ -59,15 +59,17 @@ In evaluation, the proposed method is first evaluated on a private dataset of 71
  #### Future work:   
 <p align="justify">
 On-premise deployment of the proposed pre-trained model will be looked into t oensure low latency and high throughput furthermore. 
-</p>
+
 ### b) Deciphering Adversarially Generated Cervical Pap Smear Cells using Transformers-Based Ensemble Learning.
-(Accepted at IUPESM World Congress on Medical Physics and Biomedical Engineering 2022 (IUPESM WC2022))
+(Accepted at IUPESM World Congress on Medical Physics and Biomedical Engineering 2022 (IUPESM WC2022)).
 <p align="justify">
+ 
 Graphical illustration is as follows: 
-\
-\
+
+
 <img src="cervical.jpg" width="2000" height="800">
 </p>
+
 ### c) Artificial Intelligence to Decipher Prognostic Molecular Biomarkers in Cancer Pathology.
 (Research in progress)
 
