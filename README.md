@@ -35,6 +35,7 @@ Comparative analysis reveals that the proposed Gene Transformer outperformed the
 Graphical illustration is as follows: 
 \
 \
+</p>
 <img src="Modi_timeline.png" width="1600" height="800">
 </p>
 
