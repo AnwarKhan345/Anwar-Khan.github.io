@@ -57,7 +57,7 @@ In evaluation, the proposed method is first evaluated on a private dataset of 71
 </p>
 ### Future work:   
 <p align="justify">
-On-premise deployment of the proposed pre-trained model will be looked into t oensure low latency and high throughput furthermore. 
+On-premise deployment of the proposed pre-trained model will be looked into to ensure low latency and high throughput furthermore. 
 </p>
 
 ## b) Deciphering Adversarially Generated Cervical Pap Smear Cells using Transformers-Based Ensemble Learning.
