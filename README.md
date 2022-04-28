@@ -1,6 +1,6 @@
 # Anwar Khan
 # **Projects**
-## Project # 01: Artificial Intelligence-based Drug Discovery
+## Project # 01: Artificial Intelligence-Based Drug Discovery
 This project is divided into two parts:
 
 ## a) Artificial Intelligence-Based Discovery of Cancer-Specific Metabolic Biomarkers.
