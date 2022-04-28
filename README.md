@@ -60,7 +60,7 @@ In evaluation, the proposed method is first evaluated on a private dataset of 71
 On-premise deployment of the proposed pre-trained model will be looked into to ensure low latency and high throughput furthermore. 
 </p>
 
-<img src="GradCAM.jpg" width="1200" height="600">
+<img src="GradCAM.jpg" width="1200" height="500">
 
 ## b) Deciphering Adversarially Generated Cervical Pap Smear Cells using Transformers-Based Ensemble Learning.
 (Accepted at IUPESM World Congress on Medical Physics and Biomedical Engineering 2022 (IUPESM WC2022)).
@@ -68,7 +68,7 @@ On-premise deployment of the proposed pre-trained model will be looked into to e
 Graphical illustration is as follows: 
 </p>
 
-<img src="Cervical.jpg" width="1200" height="600">
+<img src="Cervical.jpg" width="1000" height="600">
 
 ## c) Artificial Intelligence to Decipher Prognostic Molecular Biomarkers in Cancer Pathology.
 (Research in progress)
