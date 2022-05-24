@@ -41,7 +41,7 @@ Graphical illustration is as follows:
 This project is divided into two parts:
 
 ## a) Understanding Cervical Cancer Pathology via Multiscale Transformer-Based Learning Framework.
-(Manucript under-writing)
+(Review Process)
 
 ### Motivation: 
 <p align="justify">
